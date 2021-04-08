@@ -26,7 +26,7 @@ namespace BankApplication
                  }
         }
         public abstract decimal Credit(decimal amount);
-        public abstract decimal Debit(decimal amount);
+        public abstract string Debit(decimal amount);
 
         
         public override string ToString()

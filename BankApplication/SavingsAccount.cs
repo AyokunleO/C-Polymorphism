@@ -12,7 +12,11 @@ namespace BankApplication
         public decimal InterestRate
         {
             get { return interestRate; }
-            set { interestRate = value; }
+            set { 
+                if(value > 0){
+                    interestRate = value;
+                }
+                 }
         }
         
         public decimal CalculateInterest()
@@ -25,9 +29,13 @@ namespace BankApplication
         {
             return Balance = Balance + CalculateInterest();
         }
-        public override decimal Debit(decimal amount)
+        public override string Debit(decimal amount)
         {
-            return Balance - amount;
+            if(amount>Balance){
+            return $"{Balance - amount}";
+            }else{
+                return $"Insufficient Balance";
+            }
         }
     }
 }
