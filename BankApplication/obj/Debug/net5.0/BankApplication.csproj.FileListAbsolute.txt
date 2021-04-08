@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\bin\Debug\net5.0\BankApplication.exe
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\bin\Debug\net5.0\BankApplication.deps.json
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\bin\Debug\net5.0\BankApplication.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\bin\Debug\net5.0\BankApplication.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\bin\Debug\net5.0\BankApplication.dll
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\bin\Debug\net5.0\ref\BankApplication.dll
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\bin\Debug\net5.0\BankApplication.pdb
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\obj\Debug\net5.0\BankApplication.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\obj\Debug\net5.0\BankApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\obj\Debug\net5.0\BankApplication.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\obj\Debug\net5.0\BankApplication.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\obj\Debug\net5.0\BankApplication.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\obj\Debug\net5.0\BankApplication.dll
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\obj\Debug\net5.0\ref\BankApplication.dll
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\obj\Debug\net5.0\BankApplication.pdb
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\BankApplication\obj\Debug\net5.0\BankApplication.genruntimeconfig.cache

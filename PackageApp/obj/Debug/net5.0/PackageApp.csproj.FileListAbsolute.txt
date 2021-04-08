@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\obj\Debug\net5.0\PackageApp.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\obj\Debug\net5.0\PackageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\obj\Debug\net5.0\PackageApp.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\obj\Debug\net5.0\PackageApp.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\obj\Debug\net5.0\PackageApp.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\bin\Debug\net5.0\PackageApp.exe
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\bin\Debug\net5.0\PackageApp.deps.json
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\bin\Debug\net5.0\PackageApp.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\bin\Debug\net5.0\PackageApp.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\bin\Debug\net5.0\PackageApp.dll
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\bin\Debug\net5.0\ref\PackageApp.dll
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\bin\Debug\net5.0\PackageApp.pdb
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\obj\Debug\net5.0\PackageApp.dll
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\obj\Debug\net5.0\ref\PackageApp.dll
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\obj\Debug\net5.0\PackageApp.pdb
+C:\CodebitsAcademy\LabTasks\C# PolymorphismTask\PackageApp\obj\Debug\net5.0\PackageApp.genruntimeconfig.cache
