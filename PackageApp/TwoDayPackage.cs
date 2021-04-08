@@ -3,24 +3,13 @@ namespace PackageApp
 {
     public class TwoDayPackage: Package
     {
-        private decimal twoDayCost;
-        public TwoDayPackage(string senderAdd, string recipientAdd, decimal twoDayCost): base(senderAdd, recipientAdd)
+        public TwoDayPackage(string senderAdd, string recipientAdd, decimal weight, decimal cost): base(senderAdd, recipientAdd,weight,cost)
         {
-            TwoDayCost = twoDayCost;
         }
-        public decimal TwoDayCost
-        {
-            get { return twoDayCost; }
-            set { 
-                if(value>0)
-                {
-                    twoDayCost = value;
-                }  
-                }
-        }
+
         public override decimal CalculateCost()
         {
-            return TwoDayCost;
+            return (Weight * Cost);
         }
 
     }

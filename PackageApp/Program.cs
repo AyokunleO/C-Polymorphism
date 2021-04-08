@@ -6,8 +6,8 @@ namespace PackageApp
     {
         static void Main(string[] args)
         {
-            var overnightPackage = new OvernightPackage("Ota", "Lagos", 5000M);
-            var twoDayPackage = new TwoDayPackage("Lagos", "England", 20000M);
+            var overnightPackage = new OvernightPackage("Ota", "Lagos", 5M, 5000M, 10000M);
+            var twoDayPackage = new TwoDayPackage("Lagos", "England", 5M, 20000M);
 
             List<Package> packages = new List<Package>(){overnightPackage, twoDayPackage};
             var totalCost= 0M;

@@ -3,24 +3,24 @@ namespace PackageApp
 {
     public class OvernightPackage: Package
     {
-        private decimal overnightCost;
-        public OvernightPackage(string senderAdd, string recipientAdd, decimal overnightCost): base(senderAdd, recipientAdd)
+        private decimal expressFee;
+        public OvernightPackage(string senderAdd, string recipientAdd, decimal weight, decimal cost, decimal express): base(senderAdd, recipientAdd,weight,cost)
         {
-            OvernightCost = overnightCost;
+            ExpressFee = expressFee;
         }
-        public decimal OvernightCost
+        public decimal ExpressFee
         {
-            get { return overnightCost; }
+            get { return expressFee; }
             set { 
                 if(value>0)
                 {
-                    overnightCost = value;
+                    expressFee = value;
                 }
                 }
         }
         public override decimal CalculateCost()
         {
-            return OvernightCost;
+            return (Weight * Cost) + ExpressFee;
         }
 
         

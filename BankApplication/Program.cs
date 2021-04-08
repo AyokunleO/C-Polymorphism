@@ -24,9 +24,9 @@ namespace BankApplication
                 {
                     var newAccount = (SavingsAccount)account;
                     Console.Write($"{newAccount}: ");
-                    var inco = newAccount.CalculateInterest();
-
-                    Console.WriteLine($"Balance after Interest: {newAccount.Credit(inco):C}");
+                    // var inco = newAccount.CalculateInterest();
+                    newAccount.Credit(newAccount.CalculateInterest());
+                    Console.WriteLine($"Balance after Interest: {newAccount.Balance:C}");
                 }else{
                     Console.WriteLine($"{account} Balance: {account.Balance:C}");
                 }
